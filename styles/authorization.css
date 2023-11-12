@@ -1,0 +1,12 @@
+.authorization {
+  background-color: blue;
+}
+.authorization--left {
+  background-color: blue;
+  position: absolute;
+}
+.authorization--right {
+  position: absolute;
+}
+
+/*# sourceMappingURL=authorization.css.map */
